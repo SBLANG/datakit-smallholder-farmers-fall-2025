@@ -135,7 +135,7 @@ larissa_de_santi_v2.ipynb
 
 ## Contact and Collaboration
 * Author: Larissa de Santi
-* GitHub*: @larisanti
+* GitHub: @larisanti
 * E-mail: desantilarissa@gmail.com
 
 *I am open to feedback and available to answer questions about this approach.*
