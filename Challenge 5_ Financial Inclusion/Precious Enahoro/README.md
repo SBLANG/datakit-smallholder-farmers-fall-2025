@@ -10,7 +10,7 @@ This project explores how smallholder farmers discuss financial topics such as m
 
 ## Key Findings
 
-### Financial conversations make up only 7.74% of all farmer questions, yet they are highly concentrated around market prices.
+### Only 7.7% of all farmer questions are financial — and most of them center on one issue: market price transparency.
 ![Key Finding 1](https://github.com/PreciousEnahoro/datakit-smallholder-farmers-fall-2025/blob/main/Challenge%205_%20Financial%20Inclusion/Precious%20Enahoro/key-finding-vizzes/Key%20Finding%201.png)
 
 Although fewer than 1 in 10 farmer questions are financial in nature, the majority of those inquiries focus on market price discovery and market access. Farmers consistently ask:
