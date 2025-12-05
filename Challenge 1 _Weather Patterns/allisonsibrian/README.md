@@ -56,13 +56,13 @@ The model for "Pests & Disease" questions achieved a positive R^2 score (0.18) a
 ## Visualizations
 
 ###  
-http://localhost:8888/lab/tree/Challenge%201%20_Weather%20Patterns/allisonsibrian/ug_weather_topic_trends.png
+![Visualization 1](http://localhost:8888/lab/tree/Challenge%201%20_Weather%20Patterns/allisonsibrian/ug_weather_topic_trends.png)
 
 **Interpretation**: 
 Although hard to tell, both big and smaller peaks for 'Pests & Disease' questions tend to occur when there is a high rainfall the month before in Uganda.
 
 ### Feature Importance for 'Pests & Disease' Questions
-http://localhost:8888/lab/tree/Challenge%201%20_Weather%20Patterns/allisonsibrian/feature_importances.png
+![Visualization 2](http://localhost:8888/lab/tree/Challenge%201%20_Weather%20Patterns/allisonsibrian/feature_importances.png)
 
 **Interpretation**: 
 This chart shows the model's validation and prediction logic 
