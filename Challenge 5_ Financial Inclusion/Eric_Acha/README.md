@@ -1,12 +1,12 @@
-# [Your Name] - [Challenge Name] Analysis
+# Juan Eric Acha - Challenge 5: Financial Inclusion Analysis
 
 ## Overview
 Brief description of what you're analyzing and why it matters for Producers Direct and smallholder farmers.
 
 ## Research Questions
-- Question 1: What specific question are you trying to answer?
-- Question 2: What patterns are you looking for?
-- Question 3: What insights do you hope to provide?
+- Question 1: What are the economic realities of farmers? 
+- Question 2: What are the key financial terms farmers use in their conversations, and what are the most common terms that coincide?
+- Question 3: What areas are farmer most interested in spending more financial resources in? What opportunities are there for financial inclusion?
 
 ## Methodology
 
@@ -45,21 +45,21 @@ Brief description of what you're analyzing and why it matters for Producers Dire
 
 ## Key Findings
 
-### Finding 1: [Title]
+### Finding 1: [Dispite Difference In Languages, Most Small Farmers Have Similar Needs In Africa]
 Description of the finding, supported by data and visualizations.
 
 **Implications for Producers Direct:**
 - How this finding can be used
 - What actions it suggests
 
-### Finding 2: [Title]
+### Finding 2: []
 Description of the finding, supported by data and visualizations.
 
 **Implications for Producers Direct:**
 - How this finding can be used
 - What actions it suggests
 
-### Finding 3: [Title]
+### Finding 3: [Most Small Farmers Can Benefit From Different Financial Products]
 Description of the finding, supported by data and visualizations.
 
 **Implications for Producers Direct:**
@@ -69,7 +69,7 @@ Description of the finding, supported by data and visualizations.
 ## Visualizations
 
 ### [Visualization 1 Title]
-![Visualization 1](visualizations/viz1.png)
+![Visualization 1](Visuals/viz1.png)
 
 **Interpretation**: What this visualization shows and why it matters.
 
