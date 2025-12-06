@@ -337,10 +337,9 @@ Challenge 2_Seasonality/iman_muse/
 │   ├── pro_datakind_dataset.parquet      # Processed dataset (Pipeline 1)
 │   └── translated_datakind_dataset.parquet  # Translated dataset (Pipeline 2)
 │
-└── outputs/                               # Analysis outputs (optional)
-    ├── monthly_activity_patterns.csv
-    ├── peak_periods_by_country.csv
-    └── seasonality_strength.csv
+└── outputs/                               # Analysis outputs
+    ├── monthly_dominance_analysis.md
+    └── specialization_index.md
 ```
 
 ---
